@@ -1,0 +1,25 @@
+blog-pessoal/
+├── public/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── scripts.js
+│   └── index.html
+├── src/
+│   ├── controllers/
+│   │   └── articleController.js
+│   ├── models/
+│   │   └── Article.js
+│   ├── routes/
+│   │   └── index.js
+│   ├── views/
+│   │   ├── article/
+│   │   │   ├── edit.ejs
+│   │   │   └── show.ejs
+│   │   ├── layouts/
+│   │   │   └── main-layout.ejs
+│   │   └── index.ejs
+│   └── app.js
+├── .gitignore
+├── README.md
+└── package.json
